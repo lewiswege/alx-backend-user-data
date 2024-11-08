@@ -1,1 +1,1 @@
-# This directory contains the tasks logging using python as the backend
+# This directory contains the tasks general user data using python as the backend
